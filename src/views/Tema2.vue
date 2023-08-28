@@ -47,7 +47,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Recursos técnicos
-            p Los recursos técnicos de una empresa son los activos y herramientas tecnológicas utilizadas para facilitar y optimizar las operaciones y procesos empresariales. Estos recursos incluyen tanto hardware como software, infraestructura informática, sistemas de comunicación, aplicaciones especializadas y cualquier otra tecnología necesaria para mejorar la eficiencia, productividad y competitividad de la empresa. La gestión adecuada de los recursos técnicos permite a la empresa mantenerse actualizada y adaptarse a los avances tecnológicos. 
+            p Los recursos técnicos de una empresa son los activos y herramientas tecnológicas utilizadas para facilitar y optimizar las operaciones y procesos empresariales. Estos recursos incluyen tanto <em>hardware</em> como <em>software,</em> infraestructura informática, sistemas de comunicación, aplicaciones especializadas y cualquier otra tecnología necesaria para mejorar la eficiencia, productividad y competitividad de la empresa. La gestión adecuada de los recursos técnicos permite a la empresa mantenerse actualizada y adaptarse a los avances tecnológicos. 
 
           .col-md-5.px-3
             figure
@@ -68,32 +68,29 @@
       h2#t_1_1 2.1 Humanos
 
     .row.justify-content-center
-      .col-9.d-flex.flex-wrap.align-items-center.p-2
-        .col-12.col-md-3.col-lg-4
-          img.mb-4.mb-md-0.mx-auto(src="@/assets/curso/temas/tema2/img-21.svg" data-aos="fade-right")
-        p.col.mb-0.col-md-9.col-lg-8.ps-lg-4(data-aos="fade-left") La empresa es una organización de carácter social y para llevar a cabo su función requiere de la interacción humana, ya sea entre trabajadores y directivos, o vendedores y clientes. El factor humano es inherente al sistema organizacional, y su relevancia es tal, que una buena gestión del talento humano puede potenciar las ventajas competitivas y mejorar enormemente los rendimientos financieros de cualquier compañía. Existen tres grupos para clasificar el elemento humano:
+      .col-12.d-flex.flex-wrap.align-items-center.p-2
+        .col-12.col-md-3.col-lg-3
+          img.mb-3.mb-md-0.mx-auto(src="@/assets/curso/temas/tema2/img-21.svg")
+        p.tarjeta.tarjeta.color-acento-botones10.col.mb-0.col-md-9.col-lg-9.ps-lg-5.p-5 La empresa es una organización de carácter social y para llevar a cabo su función requiere de la interacción humana, ya sea entre trabajadores y directivos, o vendedores y clientes. El factor humano es inherente al sistema organizacional, y su relevancia es tal, que una buena gestión del talento humano puede potenciar las ventajas competitivas y mejorar enormemente los rendimientos financieros de cualquier compañía. Existen tres grupos para clasificar el elemento humano:
 
     .row.mb-5
       .col-md-6.col-lg.mb-1.mb-lg-0
         .tarjeta-avatar
           .tarjeta.color-acento-contenido(data-aos="flip-up")
             .p-4
-              h2.text-center(style="color:#000") Propietarios 
-              p.text-center(style="color:#000") Son quienes aportan el capital, es decir, los dueños de la compañía y quienes usualmente toman las decisiones a gran escala como el objeto social de la compañía, el tipo societario, la aprobación de la información financiera o la destinación de los excedentes. Usualmente ejercen su posición a través de la junta de socios o asamblea de accionistas; sin embargo, cuando la empresa es pequeña, los propietarios suelen ejercer el control de manera directa, por lo que son directivos al mismo tiempo. 
-
+              p(style="color: #000") <strong style="color: #000">Propietarios:</strong> son quienes aportan el capital, es decir, los dueños de la compañía y quienes usualmente toman las decisiones a gran escala como el objeto social de la compañía, el tipo societario, la aprobación de la información financiera o la destinación de los excedentes. Usualmente ejercen su posición a través de la junta de socios o asamblea de accionistas; sin embargo, cuando la empresa es pequeña, los propietarios suelen ejercer el control de manera directa, por lo que son directivos al mismo tiempo. 
+              
       .col-md-6.col-lg.mb-1.mb-lg-0
         .tarjeta-avatar
           .tarjeta.color-acento-contenido(data-aos="flip-up")
-            .p-4.mt-5
-              h2.text-center(style="color:#000") Directivos 
-              p.text-center(style="color:#000") Son designados para actuar en representación de los propietarios y son los encargados de llevar a cabo el correcto desarrollo operativo. Ejemplo de estos son la junta directiva y los gerentes generales y de áreas específicas. Toman decisiones de nivel estratégico y dirigen la compañía en función de los lineamientos generales establecidos por los propietarios.
-
+            .p-4
+              p(style="color: #000") <strong style="color: #000">Directivos:</strong> son designados para actuar en representación de los propietarios y son los encargados de llevar a cabo el correcto desarrollo operativo. Ejemplo de estos son la junta directiva y los gerentes generales y de áreas específicas. Toman decisiones de nivel estratégico y dirigen la compañía en función de los lineamientos generales establecidos por los propietarios. 
+      
       .col-md-6.col-lg.mb-1.mb-lg-0
         .tarjeta-avatar
           .tarjeta.color-acento-contenido(data-aos="flip-up")
-            .p-4.mt-5
-              h2.text-center(style="color:#000") Trabajadores
-              p.text-center(style="color:#000") Llevan a cabo las labores operativas, son nombrados por los directivos o sus designados, y se dedican a ejecutar las tareas que estos estos les encargan. En esta categoría encontramos los operarios, jefes de área y los supervisores.
+            .p-4
+              p(style="color: #000") <strong style="color: #000">Trabajadores:</strong> llevan a cabo las labores operativas, son nombrados por los directivos o sus designados, y se dedican a ejecutar las tareas que estos estos les encargan. En esta categoría encontramos los operarios, jefes de área y los supervisores.
 
     Separador
     
@@ -108,11 +105,9 @@
           img(src='@/assets/curso/temas/tema2/img-22.png', alt='Texto que describa la imagen')
       .col-lg-8.mb-4
         .tarjeta.p-3.mb-4(style="background-color:#FFDBDB")(data-aos="flip-up")
-          h4 Corrientes 
-          p(data-aos="fade-left") Aquellos de los que se espera disponer en periodos inferiores a un año, tal es el caso de las materias primas que serán usadas en el proceso de producción o los productos terminados dispuestos para la venta.
+          p(data-aos="fade-left") <strong>Corrientes:</strong> aquellos de los que se espera disponer en periodos inferiores a un año, tal es el caso de las materias primas que serán usadas en el proceso de producción o los productos terminados dispuestos para la venta.
         .tarjeta.p-3(style="background-color:#FFDBDB")(data-aos="flip-up")
-          h4 No Corrientes 
-          p(data-aos="fade-left") Son los elementos utilizados en varios ciclos productivos, y de los cuales se espera generen beneficios a la empresa durante periodos superiores a un año. Se encuentran bienes como la maquinaria, los muebles y enseres o las edificaciones. 
+          p(data-aos="fade-left") <strong>No corrientes:</strong> son los elementos utilizados en varios ciclos productivos, y de los cuales se espera generen beneficios a la empresa durante periodos superiores a un año. Se encuentran bienes como la maquinaria, los muebles y enseres o las edificaciones. 
 
     Separador 
 
@@ -121,48 +116,36 @@
 
     p.mb-5 Se refiere a los procedimientos y conocimientos propios de la actividad que desarrolla la empresa. Se encuentran asociados a cualquier proceso, ya sea administrativo, de producción o comercial. Ejemplos de estas categorías son los siguientes: 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-12.col-md-10.col-lg-10(data-aos="fade-right")    
-        .row
-          .col-lg-12
-            .cajon.color-acento-botones1.p-4.mb-4
-              h4 Administrativo 
-              p Políticas empresariales, organigramas, sistemas de control interno o de calidad. Un sistema a la medida para el reclutamiento de personal puede garantizar una selección idónea de trabajadores que impulse los niveles de productividad en cualquier área de la organización.
-              h4 Producción 
-              p Patentes, fórmulas o recetas asociadas a la creación del producto. Algunas empresas deben su enorme éxito a este elemento, tal es el caso de Coca Cola, que se ha conservado como la bebida más popular en el mundo gracias a su característico y único sabor. 
-              h4 Comercial 
-              p Imagen corporativa, estrategias de mercadeo, bases de datos. Existen compañías que son reconocidas dentro de su rubro y mantienen niveles altos de ventas gracias a su reputación.  
+    .row.justify-content-center.align-items-center 
+      .col-lg-4.md-5.mb-4
+        figure(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema2/tecnicos.png', alt='Texto que describa la imagen')
+      .col-lg-8.mb-4
+        .tarjeta.p-3.mb-4(style="background-color:#FFE8CE")(data-aos="flip-up")
+          p(data-aos="fade-left") <strong>Administrativo:</strong> políticas empresariales, organigramas, sistemas de control interno o de calidad. Un sistema a la medida para el reclutamiento de personal puede garantizar una selección idónea de trabajadores que impulse los niveles de productividad en cualquier área de la organización. 
+        .tarjeta.p-3.mb-4(style="background-color:#FFE8CE")(data-aos="flip-up")
+          p(data-aos="fade-left") <strong>Producción:</strong> patentes, fórmulas o recetas asociadas a la creación del producto. Algunas empresas deben su enorme éxito a este elemento, tal es el caso de Coca Cola, que se ha conservado como la bebida más popular en el mundo gracias a su característico y único sabor. 
+        .tarjeta.p-3(style="background-color:#FFE8CE")(data-aos="flip-up")
+          p(data-aos="fade-left") <strong>Comercial:</strong> imagen corporativa, estrategias de mercadeo, bases de datos. Existen compañías que son reconocidas dentro de su rubro y mantienen niveles altos de ventas gracias a su reputación.
 
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 2.4 Financieros 
 
-    p Hace referencia al capital dispuesto en dinero o en títulos valores de alta liquidez. La obtención de capital se hace a través de diversas fuentes, y su correcta administración garantizará que todos los demás elementos puedan funcionar de manera fluida y permanente. Los sistemas de obtención de capital son los siguientes:
+    p.mb-5 Hace referencia al capital dispuesto en dinero o en títulos valores de alta liquidez. La obtención de capital se hace a través de diversas fuentes, y su correcta administración garantizará que todos los demás elementos puedan funcionar de manera fluida y permanente. Los sistemas de obtención de capital son los siguientes:
 
-    .row.mb-5
-      .col-md-6.col-lg.mb-1.mb-lg-0
-        .tarjeta-avatar
-          .tarjeta.color-acento-contenido(data-aos="flip-up")
-            .p-4.mt-5
-              h2.text-center(style="color:#000") Fuentes operativas 
-              p.text-center(style="color:#000") Venta de los bienes y servicios producidos u ofertados por la empresa, esto incluye el recaudo de la cartera y las ventas de contado. Es la fuente de capital más importante dado que da cumplimiento a la concepción con la cual fue creada la empresa. 
-
-      .col-md-6.col-lg.mb-1.mb-lg-0
-        .tarjeta-avatar
-          .tarjeta.color-acento-contenido(data-aos="flip-up")
-            .p-4.mt-5
-              h2.text-center(style="color:#000") Fuentes de financiación 
-              p.text-center(style="color:#000") Corresponde a los dineros recibidos por parte del sector financiero o los acreedores privados. Son dineros que se reciben con una promesa de ser retornados en un plazo determinado, asumiendo unos costos por intereses. Es un sistema alternativo de consecución de capital que puede provenir de fuentes internas como lo son los aportes de capital de los propietarios, o de fuentes externas como los créditos de libre inversión que ofrecen los bancos. 
-
-      .col-md-6.col-lg.mb-1.mb-lg-0
-        .tarjeta-avatar
-          .tarjeta.color-acento-contenido(data-aos="flip-up")
-            .p-4.mt-5
-              h2.text-center(style="color:#000") Fuentes de inversión 
-              p.text-center(style="color:#000") Son aquellas rentas obtenidas por actividades accesorias a la principal. Un ejemplo común es el arrendamiento de propiedades que no están siendo utilizadas o la venta de inmuebles que han generado plusvalía.  
-              p.text-center(style="color:#000") En esta categoría hay que prestar especial atención a la venta de los activos no corrientes de la empresa; dado que una venta indiscriminada de los mismos podría llevar a no contar con las instalaciones suficientes para llevar a cabo los procesos propios de la empresa y sus consecuentes falencias en la producción o comercialización de los bienes ofertados.  
-
+    .row.justify-content-center.align-items-center 
+      .col-lg-4.md-5.mb-4
+        figure(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema2/dinero.png', alt='Texto que describa la imagen')
+      .col-lg-8.mb-4
+        .tarjeta.color-acento-contenido.p-3.mb-4(data-aos="flip-up")
+          p(style="color: #000")(data-aos="fade-left") <strong style="color: #000">Fuentes operativas:</strong> corresponde a la venta de los bienes y servicios producidos u ofertados por la empresa, esto incluye el recaudo de la cartera y las ventas de contado. Es la fuente de capital más importante dado que da cumplimiento a la concepción con la cual fue creada la empresa.
+        .tarjeta.color-acento-contenido.p-3.mb-4(data-aos="flip-up")
+          p(style="color: #000")(data-aos="fade-left") <strong style="color: #000">Fuentes de financiación:</strong> corresponde a los dineros recibidos por parte del sector financiero o los acreedores privados. Son dineros que se reciben con una promesa de ser retornados en un plazo determinado, asumiendo unos costos por intereses. Es un sistema alternativo de consecución de capital que puede provenir de fuentes internas como lo son los aportes de capital de los propietarios, o de fuentes externas como los créditos de libre inversión que ofrecen los bancos. 
+        .tarjeta.color-acento-contenido.p-3(data-aos="flip-up")
+          p(style="color: #000")(data-aos="fade-left") <strong style="color: #000">Fuentes de inversión:</strong> son aquellas rentas obtenidas por actividades accesorias a la principal. Un ejemplo común es el arrendamiento de propiedades que no están siendo utilizadas o la venta de inmuebles que han generado plusvalía. En esta categoría hay que prestar especial atención a la venta de los activos no corrientes de la empresa; dado que una venta indiscriminada de los mismos podría llevar a no contar con las instalaciones suficientes para llevar a cabo los procesos propios de la empresa y sus consecuentes falencias en la producción o comercialización de los bienes ofertados. 
 
 
 

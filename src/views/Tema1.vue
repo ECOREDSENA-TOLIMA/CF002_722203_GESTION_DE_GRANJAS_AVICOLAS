@@ -29,12 +29,6 @@
 
     p.mb-5 Existen diversas formas de clasificar las empresas, cada una de ellas obedeciendo a un criterio concreto que permite identificar factores coincidentes, y, por lo tanto, abordar definiciones, medidas y estrategias de manera conjunta según las necesidades del usuario de la información. El siguiente expone aquellas que gozan de mayor popularidad y resultan más útiles en el entorno para posteriormente detallar cada una de ellas.
 
-    .col-xl-10.mx-auto.mb-5
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 1.
-        span <em>Clasificación de los tipos de empresas.</em>
-      img.d-md-block(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-left")
-
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 Según el sector económico
 
@@ -168,13 +162,15 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 En palabras de Planas (2018), las empresas funcionan como sistemas abiertos, toman del exterior recursos como materias primas o capital, conocidas como inputs o entradas, por ejemplo, comprando barriles de leche, que se transforman, y reintegran al entorno en forma de outputs o salidas, en este caso en particular, en forma de queso o mantequilla. 
-        p.mb-0 Para que estos sistemas evolucionen deben existir métodos para retroalimentar los procesos existentes o la creación de nuevos cuando sea necesario. Las estrategias de mejoramiento continuo cumplen con esta premisa pues están enfocadas en maximizar la rentabilidad, pero para ello requieren el compendio de toda la información disponible para refinar cada uno de los elementos involucrados. 
+          br
+          br
+          | Para que estos sistemas evolucionen deben existir métodos para retroalimentar los procesos existentes o la creación de nuevos cuando sea necesario. Las estrategias de mejoramiento continuo cumplen con esta premisa pues están enfocadas en maximizar la rentabilidad, pero para ello requieren el compendio de toda la información disponible para refinar cada uno de los elementos involucrados. 
 
     p.mb-5 Es aquí donde el registro de las transacciones a través del sistema contable toma especial importancia, ya que aporta una porción significativa de los datos que posteriormente serán analizados por un sistema de control diseñado por la empresa (gestión de calidad). Una vez se cuente con el registro y el análisis, se alcanzan unas conclusiones concertadas y se plantearán las modificaciones que sean consideradas necesarias para mejorar los procesos o la calidad del producto a entregar.
     
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 2.
+        h5 Figura 1.
         span <em>Empresas como sistema.</em>
       img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-9.svg" data-aos="fade-left")
       figcaption Nota. Tomado de “Todo sobre la gestión de la empresa”. Planas, (2018).
@@ -209,7 +205,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 3.
+        h5 Figura 2.
         span <em>Los estados financieros y la toma de decisiones empresariales.</em>
       img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-9.svg" data-aos="fade-left")
       figcaption Nota. Tomado de “Apuntes de finanzas operativas”. Lira, (2016). 
@@ -255,7 +251,7 @@
 
           .row(numero="5" titulo="Análisis de datos")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Es apenas en esta fase en la que se ejecutan las pruebas diseñadas para la recolección de la información haciendo uso de los métodos y técnicas más apropiados para cada área. 
+              p.text-small Los datos recopilados se analizan mediante la aplicación de diversas técnicas y métodos estadísticos, matemáticos y de visualización con el fin de obtener resultados relacionados con los objetivos establecidos y el diagnóstico empresarial.
 
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-12.svg" data-aos="fade-right")
 
@@ -340,8 +336,8 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 4.
-        span <em>Modelo de funcionamiento organizacional.</em>
+        h5 Figura 3.
+        span <em>Modelo de funcionamiento organizacional</em>
       img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-14.svg" data-aos="fade-left")
       figcaption Nota. Tomado de Adaptada de “Modelo de funcionamiento organizacional”. Lawrence y Lorsch, (1969).
 
@@ -352,7 +348,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 5.
+        h5 Figura 4.
         span <em>Estructura Orgánica de Mintzberg.</em>
       img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-15.svg" data-aos="fade-left")
       figcaption Nota. Recuperada de ICESI. 

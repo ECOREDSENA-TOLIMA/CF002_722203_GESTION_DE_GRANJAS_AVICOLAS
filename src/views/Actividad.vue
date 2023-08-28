@@ -10,8 +10,8 @@
             img(src="@/assets/template/opcion-multiple-v1.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Caracterización y Diagnóstico Empresaria
-        p.mb-4 #[b Objetivo:] el objetivo de esta actividad didáctica es evaluar el conocimiento sobre los conceptos clave relacionados con la "Caracterización y Diagnóstico de la empresa”.
+          h2 Caracterización y diagnóstico empresarial
+        p.mb-4 #[b Objetivo:] el objetivo de esta actividad didáctica es evaluar el conocimiento sobre los conceptos clave relacionados con la "Caracterización y diagnóstico de la empresa”.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

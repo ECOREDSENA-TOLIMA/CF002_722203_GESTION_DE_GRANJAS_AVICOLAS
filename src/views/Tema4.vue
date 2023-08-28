@@ -17,12 +17,17 @@
     p.mb-5 La segunda diferencia significativa radica en que los costos son cargados a los productos (en el inventario) y no se reconocen como una disminución en la rentabilidad hasta que no se haya generado la venta de tales productos, los gastos, por su parte, se reconocen directamente en el resultado, afectando la utilidad sin importar si los productos se vendan o no.
 
     .row.justify-content-center(data-aos="fade-right")
-      .col-lg-10
+      .col-xl-10.mx-auto
+        .titulo-sexto.color-primario(data-aos="fade-right")
+          h5 Figura 9.
+          span <em>Flujograma de distribución de egresos</em>
         figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
-          img.pb-5(src="@/assets/curso//temas/tema4/img-33-1.svg" data-aos="zoom-in-up" alt="")
+          img(src="@/assets/curso//temas/tema4/img-33-1.svg" data-aos="zoom-in-up" alt="")
+          figcaption Nota. Tomado del libro “Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL”. Rincón y Narváez, (2017).
         figure.movil.mt-0  
           .row.justify-content-center.d-lg-none.d-md-none  
-            img.pb-5(src="@/assets/curso/temas/tema4/img-33-2.svg" data-aos="zoom-in-up" alt="")
+            img(src="@/assets/curso/temas/tema4/img-33-2.svg" data-aos="zoom-in-up" alt="")
+            figcaption Nota. Tomado del libro “Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL”. Rincón y Narváez, (2017).
 
     Separador 
 
@@ -31,10 +36,10 @@
 
     p.mb-5 Teniendo clara la distinción con los gastos, es posible adentrarse en los elementos que componen el costo de producción. La clasificación que goza de mayor aceptación los divide en tres grandes grupos: materia prima, mano de obra y costos indirectos de fabricación. En la siguiente figura se puede apreciar lo mencionado: 
 
-    .col-lg-12.mb-5.color-acento-contenido.p-4(style="background-color:#FFE8CE")
-      .col-xl-10.mx-auto.mb-5
+    .row.justify-content-center(data-aos="fade-right")
+      .col-xl-10.mx-auto
         .titulo-sexto.color-primario(data-aos="fade-right")
-          h5 Figura 11.
+          h5 Figura 10.
           span <em>Elementos del costo de producción.</em>
         img.d-md-block.mb-5(src="@/assets/curso/temas/tema4/img-34.svg" data-aos="fade-left")
 
@@ -74,7 +79,10 @@
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema4/img-38.svg" data-aos="fade-left")
 
     .row.justify-content-center(data-aos="fade-right")
-      .col-lg-10
+      .col-xl-10.mx-auto
+        .titulo-sexto.color-primario(data-aos="fade-right")
+          h5 Figura 11.
+          span <em>Clasificación de los costos de producción</em>
         figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
           img.pb-5(src="@/assets/curso//temas/tema4/img-38-1.svg" data-aos="zoom-in-up" alt="")
         figure.movil.mt-0  

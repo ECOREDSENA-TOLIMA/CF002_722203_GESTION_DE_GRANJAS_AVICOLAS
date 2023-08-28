@@ -25,7 +25,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 6.
+        h5 Figura 5.
         span <em>Enfoques de tiempo de la información productiva.</em>
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-24.svg" data-aos="fade-left")
       figcaption Nota. Tomado del libro “presupuestos bajo normas internacionales de información financiera y taxonomía XBRL”. Rincón y Narváez, (2017). 
@@ -153,7 +153,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 7.
+        h5 Figura 6.
         span <em>Componentes de la planeación estratégica.</em>
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-28.svg" data-aos="fade-left")
       figcaption Nota. Tomado del libro “Costos y presupuestos”. Burbano, (2006).
@@ -178,13 +178,13 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 8.
+        h5 Figura 7.
         span <em>Diagrama de tiempos.</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-30.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema3/img-30.svg" data-aos="fade-left")
       figcaption Nota. Tomado del libro “Costos y presupuestos”. Burbano, (2006).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Control Presupuestal
+      h2#t_1_1 Control presupuestal
 
     p.mb-5 El control presupuestal parte de la correcta retroalimentación del sistema. Es en este momento cuando se transmitirá la percepción de los resultados obtenidos por las nuevas medidas implantadas de acuerdo con la planeación estratégica. Como es natural, muchas de las políticas aplicadas pueden no producir los resultados que se habían estimado, por lo que una comunicación oportuna evitará reprocesos y desgastes administrativos innecesarios. 
 
@@ -198,7 +198,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 9.
+        h5 Figura 8.
         span <em>Comparativa presupuestado - ejecutado</em>
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-32.svg" data-aos="fade-left")
 
