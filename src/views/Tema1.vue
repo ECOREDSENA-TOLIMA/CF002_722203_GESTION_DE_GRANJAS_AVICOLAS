@@ -172,7 +172,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
         span <em>Empresas como sistema.</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-9.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/figura-1.svg" data-aos="fade-left")
       figcaption Nota. Tomado de “Todo sobre la gestión de la empresa”. Planas, (2018).
 
     p.mb-5 La información contable y financiera funciona como un registro de la evolución de una empresa en un periodo de tiempo determinado. Su función principal es apoyar la toma de decisiones de agentes internos, como los directivos o inversores, o agentes externos como proveedores, acreedores o clientes. Para que la información sea útil para un amplio grupo de terceros es importante que las reglas para su registro y revelación estén estandarizadas. 
@@ -338,7 +338,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
         span <em>Modelo de funcionamiento organizacional</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-14.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/figura-3.svg" data-aos="fade-left")
       figcaption Nota. Tomado de Adaptada de “Modelo de funcionamiento organizacional”. Lawrence y Lorsch, (1969).
 
     .titulo-segundo.color-acento-contenido.mb-5(data-aos="fade-right")
