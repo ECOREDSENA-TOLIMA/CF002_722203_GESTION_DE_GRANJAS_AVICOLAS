@@ -332,7 +332,7 @@
     .row.justify-content-center
       .col-12
         .tarjeta.tarjeta.p-4.mb-5(style="background-color:#FFE8CE")(data-aos="flip-up")
-          p(data-aos="fade-left") Todas las operaciones organizacionales deberán enfocarse partiendo del entorno sobre el que se desarrolla la actividad empresarial, así, el diseño de la estructura operativa será más mecánico o flexible, dependiendo de la complejidad del ambiente. Los autores del modelo lograron representar su esquema general tal y como se presenta en la figura 4 así:  
+          p(data-aos="fade-left") Todas las operaciones organizacionales deberán enfocarse partiendo del entorno sobre el que se desarrolla la actividad empresarial, así, el diseño de la estructura operativa será más mecánico o flexible, dependiendo de la complejidad del ambiente. Los autores del modelo lograron representar su esquema general tal y como se presenta en la figura 3 así:  
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
