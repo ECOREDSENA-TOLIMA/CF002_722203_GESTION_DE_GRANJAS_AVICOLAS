@@ -32,7 +32,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.1 Elementos del costo de producción 
+      h2#t_4_1 4.1 Elementos del costo de producción 
 
     p.mb-5 Teniendo clara la distinción con los gastos, es posible adentrarse en los elementos que componen el costo de producción. La clasificación que goza de mayor aceptación los divide en tres grandes grupos: materia prima, mano de obra y costos indirectos de fabricación. En la siguiente figura se puede apreciar lo mencionado: 
 
@@ -71,7 +71,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.2 Clasificación
+      h2#t_4_2 4.2 Clasificación
 
     p.mb-5 Existen variados criterios de clasificación de los costos de producción que obedecen a propósitos diferentes. A continuación, se describen los que ofrecen mayor utilidad para la administración y elaboración del presupuesto: 
 
@@ -92,7 +92,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.3 Cálculo
+      h2#t_4_3 4.3 Cálculo
 
     .row.mb-4
       .col-lg-12

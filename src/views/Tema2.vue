@@ -65,7 +65,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.1 Humanos
+      h2#t_2_1 2.1 Humanos
 
     .row.justify-content-center
       .col-12.d-flex.flex-wrap.align-items-center.p-2
@@ -95,7 +95,7 @@
     Separador
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.2 Materiales
+      h2#t_2_2 2.2 Materiales
 
     p.mb-5 Los elementos materiales comprenden aquellos bienes tangibles necesarios para desarrollar el objeto social de la empresa. Pueden clasificarse según el tiempo que se espera permanezcan en la organización así:
 
@@ -112,7 +112,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.3 Técnicos 
+      h2#t_2_3 2.3 Técnicos 
 
     p.mb-5 Se refiere a los procedimientos y conocimientos propios de la actividad que desarrolla la empresa. Se encuentran asociados a cualquier proceso, ya sea administrativo, de producción o comercial. Ejemplos de estas categorías son los siguientes: 
 
@@ -131,7 +131,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.4 Financieros 
+      h2#t_2_4 2.4 Financieros 
 
     p.mb-5 Hace referencia al capital dispuesto en dinero o en títulos valores de alta liquidez. La obtención de capital se hace a través de diversas fuentes, y su correcta administración garantizará que todos los demás elementos puedan funcionar de manera fluida y permanente. Los sistemas de obtención de capital son los siguientes:
 

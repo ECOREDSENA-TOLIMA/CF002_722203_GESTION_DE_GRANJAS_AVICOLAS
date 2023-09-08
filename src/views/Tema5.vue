@@ -18,7 +18,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.1 Características
+      h2#t_5_1 5.1 Características
 
     p.mb-5 El plan de producción se concentra en la elaboración de los productos o la prestación de los servicios ofrecidos por la empresa, los factores que los caracterizan son los siguientes: 
 
@@ -59,7 +59,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.2 Etapas 
+      h2#t_5_2 5.2 Etapas 
 
     p.mb-5 Para llevar a cabo un plan de producción es necesario tener en cuenta una serie de pasos que contribuirán a que las estimaciones sean más cercanas a la realidad. Lo anterior es de vital importancia dado que plantearse objetivos realistas evitará sobre inversiones y permitirá una medición más objetiva de la capacidad de la línea productiva. Se recomienda que cualquier plan de producción conste por lo menos de las siguientes etapas:
 

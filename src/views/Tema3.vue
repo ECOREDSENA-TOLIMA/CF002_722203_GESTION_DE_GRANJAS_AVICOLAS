@@ -18,7 +18,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.1 Definición y ejemplos
+      h2#t_3_1 3.1 Definición y ejemplos
 
     p Podemos definir el presupuesto como un sistema de análisis que se alimenta de la información presente para estimar el futuro de los procesos productivos y financieros de una empresa. La alimentación de la hoja de trabajo puede incluir todos los recursos vistos previamente, es decir, de capital, humanos, materiales y técnicos.  
     p.mb-5 El resultado final debe expresarse en indicadores financieros, revelando, por ejemplo, la cantidad de unidades a producir, la estimación de los márgenes de rentabilidad, los costos totales de producción, los tiempos y niveles de recaudo esperados, entre otros. Sintetizando lo anterior, el presupuesto toma la información histórica y presente para realizar proyecciones en un horizonte de tiempo determinado. La figura 6 recrea esta relación a través del siguiente diagrama. 
@@ -33,7 +33,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.2 Importancia  
+      h2#t_3_2 3.2 Importancia  
   
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -50,7 +50,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.3 Tipos 
+      h2#t_3_3 3.3 Tipos 
 
     p.mb-5 En palabras de Burbano (2006), un buen sistema presupuestal debe estar compuesto, por lo menos, por tres tipos de presupuesto. Uno de operación a ejecutar durante el periodo que mida los niveles de producción o adquisición de productos terminados, un sistema de presupuesto de capital centrado en la inversión en activos fijos y uno financiero que mida el impacto económico de las decisiones tomadas a través de estados financieros proyectados.  
 
@@ -109,7 +109,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.4 Presupuesto inicial de la empresa 
+      h2#t_3_4 3.4 Presupuesto inicial de la empresa 
 
     p.mb-5 El presupuesto inicial de la empresa es una estimación financiera detallada que planifica y proyecta los ingresos y gastos esperados antes de iniciar sus operaciones comerciales. Es una herramienta crucial para establecer metas financieras y determinar la viabilidad y sostenibilidad del negocio en su fase inicial.
 
@@ -135,7 +135,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.5 Cómo elaborar un presupuesto
+      h2#t_3_5 3.5 Cómo elaborar un presupuesto
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.md-5.mb-4

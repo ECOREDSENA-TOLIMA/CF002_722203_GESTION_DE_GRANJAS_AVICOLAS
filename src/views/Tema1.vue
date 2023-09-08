@@ -154,7 +154,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.2 Recursos y transacciones contables de la empresa 
+      h2#t_1_2 1.2 Recursos y transacciones contables de la empresa 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -213,7 +213,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.3 Diagnóstico organizacional de la empresa
+      h2#t_1_3 1.3 Diagnóstico organizacional de la empresa
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
