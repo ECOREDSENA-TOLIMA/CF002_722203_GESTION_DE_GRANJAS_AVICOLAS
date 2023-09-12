@@ -7,18 +7,20 @@
         span 5
       h1 Plan de producción
 
-    .row.justify-content-center(data-aos="fade-right")
-      .col-lg-10
+    .row.justify-content-center
+      .col-lg-10.col-12(data-aos="fade-right")
         figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
           img.pb-5(src="@/assets/curso//temas/tema5/img-39-1.svg" data-aos="zoom-in-up" alt="")
         figure.movil.mt-0  
           .row.justify-content-center.d-lg-none.d-md-none  
             img.pb-5(src="@/assets/curso/temas/tema5/img-39-2.svg" data-aos="zoom-in-up" alt="")
+      .col-lg-10.col-12(data-aos="fade-right")
+        .cajon.color-acento-contenido.p-4
+          p.mb-0 El proceso productivo involucra todas las áreas que tienen relación directa con la elaboración del producto o la prestación del servicio. La correcta gestión de este aspecto permite la optimización de los costos, lo que puede traducirse en una mayor rentabilidad, o en un menor precio de venta. El plan de producción surge como una herramienta administrativa enfocada a la correcta gestión del proceso productivo, con miras a la generación de ventajas competitivas a través de la mejora de la eficiencia de todos los actores que sean contemplados en él.
 
     Separador 
-
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_1 5.1 Características
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.1 Características
 
     p.mb-5 El plan de producción se concentra en la elaboración de los productos o la prestación de los servicios ofrecidos por la empresa, los factores que los caracterizan son los siguientes: 
 
@@ -58,8 +60,8 @@
     
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_2 5.2 Etapas 
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.2 Etapas 
 
     p.mb-5 Para llevar a cabo un plan de producción es necesario tener en cuenta una serie de pasos que contribuirán a que las estimaciones sean más cercanas a la realidad. Lo anterior es de vital importancia dado que plantearse objetivos realistas evitará sobre inversiones y permitirá una medición más objetiva de la capacidad de la línea productiva. Se recomienda que cualquier plan de producción conste por lo menos de las siguientes etapas:
 

@@ -35,6 +35,11 @@ export default {
             titulo: 'Recursos y transacciones contables de la empresa',
             hash: 't_1_2',
           },
+          {
+            numero: '1.3',
+            titulo: 'Diagnostico organizacional de la empresa',
+            hash: 't_1_3',
+          },
         ],
       },
 
@@ -242,7 +247,7 @@ export default {
     {
       termino: 'Ciclo operativo',
       significado:
-        'proceso que abarca todas las etapas desde la compra de materia prima hasta la venta del producto terminado.',
+        'proceso que abarca todas las etapas, desde la compra de materia prima hasta la venta del producto terminado.',
     },
     {
       termino: 'Objeto social',
@@ -257,7 +262,7 @@ export default {
     {
       termino: 'Margen de rentabilidad',
       significado:
-        'atio que determina la proporción de utilidad al tomar un ingreso y dividirlo en los costos necesarios para generarlo.',
+        'ratio que determina la proporción de utilidad al tomar un ingreso y dividirlo en los costos necesarios para generarlo.',
     },
   ],
   referencias: [

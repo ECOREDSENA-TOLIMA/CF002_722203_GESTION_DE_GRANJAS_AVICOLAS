@@ -24,13 +24,13 @@
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.1 Tipos de empresa
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.1 Tipos de empresa
 
     p.mb-5 Existen diversas formas de clasificar las empresas, cada una de ellas obedeciendo a un criterio concreto que permite identificar factores coincidentes, y, por lo tanto, abordar definiciones, medidas y estrategias de manera conjunta según las necesidades del usuario de la información. El siguiente expone aquellas que gozan de mayor popularidad y resultan más útiles en el entorno para posteriormente detallar cada una de ellas.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Según el sector económico
+      h2 Según el sector económico
 
     p.mb-5 Esta clasificación obedece al sector productivo donde la empresa lleva a cabo su actividad principal, este sistema también suele delimitar el tipo de actividad que esta desarrolla (de extracción, producción/transformación, o comercialización). 
 
@@ -55,7 +55,7 @@
           p Incluye las empresas que se dedican a la intermediación en la compraventa de bienes sin aplicar procesos de transformación, así como aquellas dedicadas a la prestación de servicios.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Según el control de recursos
+      h2 Según el control de recursos
 
     p.mb-5 Las empresas pueden clasificarse según la procedencia del capital, aquí se enmarcan dos grandes actores que pueden tomar participación de manera independiente o conjunta: el sector público bajo la figura del Estado, y el sector privado, a través de la inversión particular. 
 
@@ -80,7 +80,7 @@
           p Se compone de la conjunción de los dos tipos de capitales, público y privado. Suelen surgir de la necesidad del Estado de conseguir recursos adicionales ya sea para dinamizar su operación o para cubrir déficits presupuestales.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Según la esfera territorial 
+      h2 Según la esfera territorial 
 
     p.mb-5 Este criterio de clasificación obedece al área geográfica donde la empresa lleva a cabo su actividad. 
 
@@ -107,7 +107,7 @@
             p.text-small Desarrollan actividades operativas en varios países y usualmente existe una central de operaciones a nivel global conocida como matriz, mientras que las sucursales que operan alrededor del mundo se conocen como subsidiarias o filiales. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Según su constitución jurídica 
+      h2 Según su constitución jurídica 
 
     p.mb-5 Las empresas pueden ser unipersonales a través de la creación de un establecimiento de comercio autónomo e indivisible de la persona natural, o bien, constituirse a partir de la conjunción de varias personas naturales que se organizan en sociedad.
 
@@ -127,7 +127,7 @@
           p Constituidas por una sola persona natural, toda responsabilidad frente a terceros es asumida por el titular de esta. No tienen personería jurídica ni cuentan con una identificación separada de la persona que la crea.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Según el tamaño
+      h2 Según el tamaño
 
     .row.mt-4
       .col-12.col-md-5.col-lg-3.mb-4
@@ -153,18 +153,18 @@
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_2 1.2 Recursos y transacciones contables de la empresa 
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Recursos y transacciones contables de la empresa 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En palabras de Planas (2018), las empresas funcionan como sistemas abiertos, toman del exterior recursos como materias primas o capital, conocidas como inputs o entradas, por ejemplo, comprando barriles de leche, que se transforman, y reintegran al entorno en forma de outputs o salidas, en este caso en particular, en forma de queso o mantequilla. 
+        p.mb-0 En palabras de Planas (2018), las empresas funcionan como sistemas abiertos, toman del exterior recursos como materias primas o capital, conocidas como #[em inputs] o entradas, por ejemplo, comprando barriles de leche, que se transforman, y reintegran al entorno en forma de #[em outputs] o salidas, en este caso en particular, en forma de queso o mantequilla. 
           br
           br
-          | Para que estos sistemas evolucionen deben existir métodos para retroalimentar los procesos existentes o la creación de nuevos cuando sea necesario. Las estrategias de mejoramiento continuo cumplen con esta premisa pues están enfocadas en maximizar la rentabilidad, pero para ello requieren el compendio de toda la información disponible para refinar cada uno de los elementos involucrados. 
+          | Para que estos sistemas evolucionen deben existir métodos para retroalimentar los procesos existentes o la creación de nuevos cuando sea necesario. Las estrategias de mejoramiento continuo cumplen con esta premisa, pues están enfocadas en maximizar la rentabilidad, pero para ello requieren el compendio de toda la información disponible para refinar cada uno de los elementos involucrados. 
 
     p.mb-5 Es aquí donde el registro de las transacciones a través del sistema contable toma especial importancia, ya que aporta una porción significativa de los datos que posteriormente serán analizados por un sistema de control diseñado por la empresa (gestión de calidad). Una vez se cuente con el registro y el análisis, se alcanzan unas conclusiones concertadas y se plantearán las modificaciones que sean consideradas necesarias para mejorar los procesos o la calidad del producto a entregar.
     
@@ -172,10 +172,10 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
         span <em>Empresas como sistema.</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/figura-1.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/figura-1.svg" data-aos="fade-left" alt="En la figura 1 se muestra una empresa como sistema. La empresa se comporta como un sistema abierto, donde recibe insumos, los procesa y entrega productos al exterior, entre otros resultados.")
       figcaption Nota. Tomado de “Todo sobre la gestión de la empresa”. Planas, (2018).
 
-    p.mb-5 La información contable y financiera funciona como un registro de la evolución de una empresa en un periodo de tiempo determinado. Su función principal es apoyar la toma de decisiones de agentes internos, como los directivos o inversores, o agentes externos como proveedores, acreedores o clientes. Para que la información sea útil para un amplio grupo de terceros es importante que las reglas para su registro y revelación estén estandarizadas. 
+    p.mb-5 La información contable y financiera funciona como un registro de la evolución de una empresa en un periodo de tiempo determinado. Su función principal es apoyar la toma de decisiones de agentes internos, como los directivos o inversores, o agentes externos como proveedores, acreedores o clientes. Para que la información sea útil para un amplio grupo de terceros, es importante que las reglas para su registro y revelación estén estandarizadas. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-10.col-lg-10(data-aos="fade-right")    
@@ -207,13 +207,13 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 2.
         span <em>Los estados financieros y la toma de decisiones empresariales.</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-9.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-9.svg" data-aos="fade-left" alt="En la figura 2 se muestra la información histórica suministrada por los estados financieros es vital para la toma de decisiones empresariales.")
       figcaption Nota. Tomado de “Apuntes de finanzas operativas”. Lira, (2016). 
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_3 1.3 Diagnóstico organizacional de la empresa
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.3 Diagnóstico organizacional de la empresa
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -224,7 +224,7 @@
         p El diagnóstico empresarial es entonces un medio para refinar cada proceso a través de un trabajo de investigación que califique su desempeño de manera cualitativa y cuantitativa. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h3#t_1_1 Etapas 
+      h3 Etapas 
 
     p.mb-5 Si bien es cierto que las fases en las que se debe ejecutar un diagnóstico se encuentran supeditadas a las condiciones de la empresa objeto de estudio, existen una serie de etapas que pueden considerarse fundamentales para construir un esquema más efectivo: 
 
@@ -261,7 +261,7 @@
           p(data-aos="fade-left") Una vez son ejecutadas todas las fases descritas, cada empresa podrá plantearse la posibilidad de elaborar un nuevo diagnóstico para determinar si las estrategias formuladas han dado los resultados esperados. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h3#t_1_1 Objetivos 
+      h3 Objetivos 
 
     p.mb-5 Los objetivos del diagnóstico empresarial se encuentran supeditados al modelo de intervención, sin embargo, para Pérez (1985), los que suelen ser cubiertos de manera frecuente son los siguientes: 
 
@@ -282,7 +282,7 @@
             | Aportar herramientas suficientes para elaborar un plan de intervención y mejora. 
 
     .titulo-segundo.color-acento-contenido.mb-5(data-aos="fade-right")
-      h3#t_1_1 Modelos 
+      h3 Modelos 
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -305,7 +305,7 @@
                 | En este sentido, son prescindibles e intercambiables, por lo que cada analista podrá elegir a su gusto y preferencia el que mejor se adecúe a su estilo de trabajo o su filosofía de empresa. Dos de los más relevantes se explican a continuación.  
     
     .titulo-segundo.color-acento-contenido.mb-5(data-aos="fade-right")
-      h3#t_1_1 Modelo de contingencias 
+      h3 Modelo de contingencias 
 
     p.mb-5 Elaborado por <i>Lawrence y Lorsch</i> (1969), se fundamenta en la concepción de la empresa como un sistema que interactúa con su entorno. Sus dos conceptos más importantes son la diferenciación e integración.  
 
@@ -338,11 +338,11 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
         span <em>Modelo de funcionamiento organizacional</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/figura-3.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/figura-3.svg" data-aos="fade-left" alt="En la figura 3 se muestra el modelo sugiere que cada organización debe adoptar una estructura adecuada a su situación particular.")
       figcaption Nota. Tomado de Adaptada de “Modelo de funcionamiento organizacional”. Lawrence y Lorsch, (1969).
 
     .titulo-segundo.color-acento-contenido.mb-5(data-aos="fade-right")
-      h3#t_1_1 Modelo de Mintzberg y la estructura en cinco
+      h3 Modelo de #[em Mintzberg] y la estructura en cinco
 
     p.mb-5 Opera bajo una premisa similar al modelo anterior, ya que considera como elementos más relevantes de la organización la división del trabajo y la coordinación de las tareas para funcionar de manera armoniosa. Según su autor, una empresa puede dividirse en cinco categorías:
 
@@ -350,7 +350,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
         span <em>Estructura Orgánica de Mintzberg.</em>
-      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-15.svg" data-aos="fade-left")
+      img.d-md-block.mb-3(src="@/assets/curso/temas/tema1/img-15.svg" data-aos="fade-left" alt="En la figura 4 se muestra la estructura orgánica de Mintzberg es un modelo de organización que se basa en cinco componentes principales: El ápice estratégico, la línea media, los operativos clave, la tecnoestructura y el staff de apoyo. ")
       figcaption Nota. Recuperada de ICESI. 
 
 

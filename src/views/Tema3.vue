@@ -17,23 +17,23 @@
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_3_1 3.1 Definición y ejemplos
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.1 Definición y ejemplos
 
     p Podemos definir el presupuesto como un sistema de análisis que se alimenta de la información presente para estimar el futuro de los procesos productivos y financieros de una empresa. La alimentación de la hoja de trabajo puede incluir todos los recursos vistos previamente, es decir, de capital, humanos, materiales y técnicos.  
-    p.mb-5 El resultado final debe expresarse en indicadores financieros, revelando, por ejemplo, la cantidad de unidades a producir, la estimación de los márgenes de rentabilidad, los costos totales de producción, los tiempos y niveles de recaudo esperados, entre otros. Sintetizando lo anterior, el presupuesto toma la información histórica y presente para realizar proyecciones en un horizonte de tiempo determinado. La figura 6 recrea esta relación a través del siguiente diagrama. 
+    p.mb-5 El resultado final debe expresarse en indicadores financieros, revelando, por ejemplo, la cantidad de unidades a producir, la estimación de los márgenes de rentabilidad, los costos totales de producción, los tiempos y niveles de recaudo esperados, entre otros. Sintetizando lo anterior, el presupuesto toma la información histórica y presente para realizar proyecciones en un horizonte de tiempo determinado. La siguiente figura recrea esta relación a través del siguiente diagrama. 
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 5.
         span <em>Enfoques de tiempo de la información productiva.</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-24.svg" data-aos="fade-left")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-24.svg" data-aos="fade-left" alt="En la figura 5 se muestra los enfoques de tiempo y enfatiza la importancia de aprender del pasado (ayer) para tomar decisiones informadas en el presente (hoy) y planificar para el futuro (mañana).")
       figcaption Nota. Tomado del libro “presupuestos bajo normas internacionales de información financiera y taxonomía XBRL”. Rincón y Narváez, (2017). 
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_3_2 3.2 Importancia  
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.2 Importancia  
   
     .col-12.d-flex.flex-wrap.align-items-center.p-2.mb-4
       .col-12.col-md-3.col-lg-1
@@ -49,13 +49,13 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_3_3 3.3 Tipos 
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.3 Tipos 
 
     p.mb-5 En palabras de Burbano (2006), un buen sistema presupuestal debe estar compuesto, por lo menos, por tres tipos de presupuesto. Uno de operación a ejecutar durante el periodo que mida los niveles de producción o adquisición de productos terminados, un sistema de presupuesto de capital centrado en la inversión en activos fijos y uno financiero que mida el impacto económico de las decisiones tomadas a través de estados financieros proyectados.  
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h3#t_1_1 Presupuestos de operación 
+      h3 Presupuestos de operación 
 
     p.mb-5 El presupuesto de operación es un plan financiero detallado que estima los ingresos y gastos esperados durante un período determinado para mantener las actividades comerciales en marcha. Es una herramienta esencial para gestionar los recursos y tomar decisiones informadas para alcanzar los objetivos de la empresa en su funcionamiento diario.
 
@@ -73,7 +73,7 @@
           figure
             img(src='@/assets/curso/temas/tema3/decorador-3.svg', alt='Presupuesto de producción')
         .col-md-8.col-12
-          p Es aplicable a las empresas manufactureras ya que busca establecer la cantidad de unidades a producir según las ventas estimadas en el presupuesto de ventas o la capacidad de producción disponible. Es uno de los más complicados de elaborar debido a que involucra muchos conceptos asociados al costeo de los productos terminados, además de multiplicidad de factores relacionados como la calidad y cantidad de mano de obra, la capacidad de la maquinaria disponible o la disponibilidad de espacio de almacenamiento.
+          p Es aplicable a las empresas manufactureras, ya que busca establecer la cantidad de unidades a producir según las ventas estimadas en el presupuesto de ventas o la capacidad de producción disponible. Es uno de los más complicados de elaborar debido a que involucra muchos conceptos asociados al costeo de los productos terminados, además de multiplicidad de factores relacionados como la calidad y cantidad de mano de obra, la capacidad de la maquinaria disponible o la disponibilidad de espacio de almacenamiento.
 
       .row.justify-content-center.align-items-center(titulo="Presupuesto de gastos de administración y ventas")
         .col-lg-2.col-10.mb-lg-0.mb-3
@@ -83,7 +83,7 @@
           p Incluye todas las erogaciones que no se encuentran asociadas directamente con la producción como comisiones, salarios de personal comercial y administrativo, arrendamiento de las oficinas, honorarios pagados a asesores y directivos de las demás áreas, entre otros. Los valores aquí discriminados suelen ser significativos y suelen ser evaluados una vez el presupuesto de ventas y producción se hayan integrado.
       
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Presupuesto de capital 
+      h2 Presupuesto de capital 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.md-5.mb-4
@@ -95,7 +95,7 @@
         p Por ejemplo, si renovar la maquinaria disminuye los costos de producción, esa mayor utilidad / producto del menor costo podría cubrir los pagos por intereses del endeudamiento financiero. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Presupuesto financiero 
+      h2 Presupuesto financiero 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-8.col-12.col-lg-9
@@ -108,8 +108,8 @@
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_3_4 3.4 Presupuesto inicial de la empresa 
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.4 Presupuesto inicial de la empresa 
 
     p.mb-5 El presupuesto inicial de la empresa es una estimación financiera detallada que planifica y proyecta los ingresos y gastos esperados antes de iniciar sus operaciones comerciales. Es una herramienta crucial para establecer metas financieras y determinar la viabilidad y sostenibilidad del negocio en su fase inicial.
 
@@ -134,8 +134,8 @@
 
     Separador 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_3_5 3.5 Cómo elaborar un presupuesto
+    #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.5 Cómo elaborar un presupuesto
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.md-5.mb-4
@@ -146,27 +146,63 @@
         p El ciclo se reinicia con la interpretación de la información recolectada donde permanecen las estrategias que dieron resultado, y se modifican las que no. Las tres grandes fases de la proyección presupuestal son las siguientes:
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Planeación estratégica
+      h2 Planeación estratégica
   
-    .col-xl-12.mx-auto.mb-5
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/cuadros.svg" data-aos="fade-left")
+    //- .col-xl-12.mx-auto.mb-5
+    //-   img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/cuadros.svg" data-aos="fade-left")
+
+    .row.justify-content-center.align-items-center.mb-3.t-cf2(data-aos="fade-down")
+      .col-12
+        .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-1.svg' alt='')
+          .tarjeta.color-acento-contenido--borde.t-c-b
+            .p-4
+              p.mb-0 La concepción de cualquier presupuesto es anticiparse a las implicaciones futuras, así que para iniciar a elaborar uno, lo más importante es definir los planes de la empresa en el mediano y largo plazo, así como las acciones y sus posibles consecuencias dentro de este escenario.
+
+    .row.justify-content-center.align-items-center.mb-3.t-cf2(data-aos="fade-down")
+      .col-12
+        .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-2.svg' alt='')
+          .tarjeta.color-acento-botones--borde.t-c-b
+            .p-4
+              p.mb-0 Con una estrategia clara que indique cuáles serán los aspectos a priorizar, el presupuesto tendrá una distribución determinada, puesto que, a fin de cuentas, este se trata de una especie de cuantificación de los planes organizacionales a futuro. 
+
+    .row.justify-content-center.align-items-center.mb-3.t-cf2(data-aos="fade-down")
+      .col-12
+        .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-3.svg' alt='')
+          .tarjeta.color-primario--borde.t-c-b
+            .p-4
+              p.mb-0 Para llevarla a cabo es importante que se involucren los directivos de todas las áreas que implementarán las medidas, así, la planeación estratégica también funcionará como medio de comunicación de abajo hacia arriba atravesando todos los niveles de la empresa, puesto que los directivos requerirán de los operarios para aplicar las estrategias propuestas. 
+              
+    .row.justify-content-center.align-items-center.mb-5.t-cf2(data-aos="fade-down")
+      .col-12
+        .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-4.svg' alt='')
+          .tarjeta.color-secundario--borde.t-c-b
+            .p-4
+              p.mb-0 El esquema de planeación debe tener presente en primer lugar la razón de ser de la compañía, luego posicionarla dentro de las condiciones del ambiente en la que lleva a cabo su operación, mientras que de manera simultánea se evalúan las fortalezas y debilidades a nivel interno. De todo ello surgirán una serie de objetivos a alcanzar a través de acciones claras a aplicar.
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 6.
         span <em>Componentes de la planeación estratégica.</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-28.svg" data-aos="fade-left")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-28.svg" data-aos="fade-left" alt="En la figura 6 se muestran los elementos fundamentales que conforman el proceso de formulación de objetivos y estrategias a largo plazo de una organización. ")
       figcaption Nota. Tomado del libro “Costos y presupuestos”. Burbano, (2006).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Presupuestación
+      h2 Presupuestación
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.md-5.mb-4
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema3/img-29.png', alt='Texto que describa la imagen')
       .col-lg-7.mb-4.color-acento-contenido.p-3(style="background-color:#ABFFFF")
-        p Una vez se tienen claras las estrategias a gran escala se deben aterrizar las medidas a acciones específicas, destinando una asignación de recursos detallada para cada actividad. Todas las partidas serán consolidadas en los tipos presupuestales descritos previamente, y serán compartidos a las áreas involucradas de tal manera que exista un flujo de información oportuno y suficiente para que cada empleado pueda aportar desde su posición en la ejecución de sus nuevas tareas.
+        p Una vez se tienen claras las estrategias a gran escala, se deben aterrizar las medidas a acciones específicas, destinando una asignación de recursos detallada para cada actividad. Todas las partidas serán consolidadas en los tipos presupuestales descritos previamente, y serán compartidos a las áreas involucradas de tal manera que exista un flujo de información oportuno y suficiente para que cada empleado pueda aportar desde su posición en la ejecución de sus nuevas tareas.
         p En este punto también es importante determinar un cronograma para la finalización de las diversas actividades contenidas en el diseño del presupuesto. Debido a que existen tantas áreas organizacionales involucradas en el plan estratégico, coordinar los tiempos resulta imprescindible para que las tareas se ejecuten de manera fluida y no existan retrasos por incumplimientos. 
 
     .row.justify-content-center.align-items-center.mt-5
@@ -174,17 +210,17 @@
         .row
           .col-lg-12
             .color-acento-contenido.p-4.mb-4
-              p Un ejemplo sencillo de cómo coordinar tareas variadas es el diagrama de Gantt, una herramienta visual que permite identificar en qué fase tendrá actividades a ejecutar cada área o proceso. Siempre y cuando cada involucrado se responsabilice de cumplir en su horizonte de tiempo, será posible medir la verdadera eficacia de las estrategias implementadas.
+              p Un ejemplo sencillo de cómo coordinar tareas variadas es el diagrama de #[em Gantt], una herramienta visual que permite identificar en qué fase tendrá actividades a ejecutar cada área o proceso. Siempre y cuando cada involucrado se responsabilice de cumplir en su horizonte de tiempo, será posible medir la verdadera eficacia de las estrategias implementadas.
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 7.
         span <em>Diagrama de tiempos.</em>
-      img.d-md-block(src="@/assets/curso/temas/tema3/img-30.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema3/img-30.svg" data-aos="fade-left" alt="En la figura 7 se muestra el diagrama de tiempos, es una representación gráfica que muestra la secuencia y duración de actividades o eventos a lo largo del tiempo. ")
       figcaption Nota. Tomado del libro “Costos y presupuestos”. Burbano, (2006).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Control presupuestal
+      h2 Control presupuestal
 
     p.mb-5 El control presupuestal parte de la correcta retroalimentación del sistema. Es en este momento cuando se transmitirá la percepción de los resultados obtenidos por las nuevas medidas implantadas de acuerdo con la planeación estratégica. Como es natural, muchas de las políticas aplicadas pueden no producir los resultados que se habían estimado, por lo que una comunicación oportuna evitará reprocesos y desgastes administrativos innecesarios. 
 
@@ -200,7 +236,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 8.
         span <em>Comparativa presupuestado - ejecutado</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-32.svg" data-aos="fade-left")
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema3/img-32.svg" data-aos="fade-left" alt="En la figura 8 se muestra un análisis que contrasta los valores planificados y los resultados reales de ingresos y gastos en un período determinado. ")
 
     p Una vez se alcancen las conclusiones de las medidas implementadas, se dará inicio al ciclo de planeación estratégica nuevamente al aplicar nuevas medidas mientras se mantienen aquellas que dieron resultados positivos; este ciclo podrá repetirse cuantas veces lo requiera la administración con miras a perfeccionar todos los procesos que sean posibles. 
 
