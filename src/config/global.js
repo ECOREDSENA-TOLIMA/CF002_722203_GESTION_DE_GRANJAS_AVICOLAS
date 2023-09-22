@@ -268,9 +268,9 @@ export default {
   referencias: [
     {
       referencia:
-        'Burbano A. (2006). Costos y presupuestos. Segunda edición. Ediciones Uniandes.',
+        'Burbano A. (2011). Costos y presupuestos. Cuarta edición. Instituto Superior Tecnológico Ismael Pérez Pazmiño ',
       link:
-        'https://es.scribd.com/read/436270130/Costos-y-presupuestos-Segunda-edicion',
+        'https://instipp.edu.ec/Libreria/libro/Presupuestos_-_Burbano%20.pdf',
     },
     {
       referencia:
@@ -282,31 +282,31 @@ export default {
       referencia:
         'Lira P. (2016). Apuntes de finanzas operativas. Universidad Peruana de Ciencias Aplicadas S.A.C.',
       link:
-        'https://es.scribd.com/read/401875272/Apuntes-de-Finanzas-Operativas-Lo-basico-para-saber-operar-una-empresa-financieramente',
+        'https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/620833/Apuntes%20de%20finanzas%20Operaivas%201er%20cap.pdf',
     },
     {
       referencia:
         'Pérez V. y Manuel F. (1985). La evaluación organizacional. p.67-74.',
-      link:
-        'https://journals.copmadrid.org/jwop/files/1985/vol1/arti2.htm#_Hlk445286354',
+      // link:
+      //   'https://journals.copmadrid.org/jwop/files/1985/vol1/arti2.htm#_Hlk445286354',
     },
     {
       referencia:
         'Planas F. E. (2018). Todo sobre la gestión de su empresa. Editorial de Vecchi.',
-      link:
-        'https://es.scribd.com/read/388236109/Todo-sobre-la-gestion-de-su-empresa',
+      // link:
+      //   'https://es.scribd.com/read/388236109/Todo-sobre-la-gestion-de-su-empresa',
     },
     {
       referencia:
         'Rincón C. y Narváez J. (2017). Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. Ediciones de la U.',
-      link:
-        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
+      // link:
+      //   'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
     },
     {
       referencia:
         'Rodríguez D. (2016). Diagnóstico organizacional. Octava edición. Ediciones Universidad Católica de Chile.',
-      link:
-        'https://es.scribd.com/document/429486479/diagnostico-organizacional',
+      // link:
+      //   'https://es.scribd.com/document/429486479/diagnostico-organizacional',
     },
   ],
   creditos: [
