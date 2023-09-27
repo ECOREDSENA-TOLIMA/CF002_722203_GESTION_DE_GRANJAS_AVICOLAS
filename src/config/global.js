@@ -37,7 +37,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Diagnostico organizacional de la empresa',
+            titulo: 'Diagnóstico organizacional de la empresa',
             hash: 't_1_3',
           },
         ],
