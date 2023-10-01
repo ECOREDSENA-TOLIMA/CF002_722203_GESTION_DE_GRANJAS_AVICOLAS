@@ -268,7 +268,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Burbano A. (2011). Costos y presupuestos. Cuarta edición. Instituto Superior Tecnológico Ismael Pérez Pazmiño ',
+        'Burbano A. (2011). Presupuestos. Un enfoque de direccionamiento estratégico, gestión y control de recursos. Cuarta edición. Instituto Superior Tecnológico Ismael Pérez Pazmiño ',
       link:
         'https://instipp.edu.ec/Libreria/libro/Presupuestos_-_Burbano%20.pdf',
     },
@@ -285,10 +285,8 @@ export default {
         'https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/620833/Apuntes%20de%20finanzas%20Operaivas%201er%20cap.pdf',
     },
     {
-      referencia:
-        'Pérez V. y Manuel F. (1985). La evaluación organizacional. p.67-74.',
-      // link:
-      //   'https://journals.copmadrid.org/jwop/files/1985/vol1/arti2.htm#_Hlk445286354',
+      referencia: 'Pérez V. y Manuel F. (1985). La evaluación organizacional.',
+      link: 'https://journals.copmadrid.org/jwop/files/1985/vol1/arti2.htm',
     },
     {
       referencia:
